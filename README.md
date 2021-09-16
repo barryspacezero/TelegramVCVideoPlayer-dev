@@ -13,17 +13,9 @@ The easiest way to deploy this Bot is via Heroku.
 
 
 
-# Our Credit 🔥
+# My Credit 🔥
 
-<a href="https://t.me/DeeCodeBots"><img src="https://img.shields.io/badge/Louis-1b77FF.svg?logo=Telegram"></a>
-<a href="t.me/ProErrorXD"><img src="https://img.shields.io/badge/Error-1b77FF.svg?logo=telegram"></a>
-<a href="https://t.me/piroXpower"><img src="https://img.shields.io/badge/Blaze-1b77FF.svg?logo=Telegram"></a>
-<a href="t.me/jalim_munda"><img src="https://img.shields.io/badge/Harsh-1b77FF.svg?logo=telegram"></a>
-
-<a href="https://t.me/DEVILDAD_PRINCE"><img src="https://img.shields.io/badge/Devil-1b77FF.svg?logo=Telegram"></a>
-<a href="t.me/Pratheek_XD"><img src="https://img.shields.io/badge/Habibi-1b77FF.svg?logo=telegram"></a>
-<a href="https://t.me/imsafone"><img src="https://img.shields.io/badge/Safone-1b77FF.svg?logo=Telegram"></a>
-<a href="t.me/SammyXD"><img src="https://img.shields.io/badge/Sammy-1b77FF.svg?logo=telegram"></a>
+<a href="https://t.me/barryspace"><img src="https://img.shields.io/badge/Louis-1b77FF.svg?logo=Telegram"></a>
 
 
 # Special Thanks To 💞
