@@ -15,7 +15,7 @@ The easiest way to deploy this Bot is via Heroku.
 
 # My Credit 🔥
 
-<a href="https://t.me/barryspace"><img src="https://img.shields.io/badge/Louis-1b77FF.svg?logo=Telegram"></a>
+<a href="https://t.me/barryspace"><img src="https://img.shields.io/badge/barryspace-1b77FF.svg?logo=Telegram"></a>
 
 
 # Special Thanks To 💞
