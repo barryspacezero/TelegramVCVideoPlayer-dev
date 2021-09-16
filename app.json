@@ -7,9 +7,9 @@
         "Telegram Bot",
         "Vidio Vc Steramer"
     ],
-    "website": "https://t.me/DeeCodeBots",
-    "repository": "https://github.com/Sammy-XD/VcVideoPlayer",
-    "success_url": "https://t.me/DeeCodeBots",
+    "website": "https://t.me/barryspace",
+    "repository": "https://github.com/barryspacezero/TelegramVCVideoPlayer-dev",
+    "success_url": "https://t.me/barryspace",
     "env": {
         "API_ID": {
             "description": "Your APP_ID from my.telegram.org",
@@ -40,7 +40,7 @@
             "required": true
         },
         "SOURCE_CODE": {
-            "description": "put your GitHub link like this GitHub.com/Sammy-XD/VcVideoPlayer",
+            "description": "put your GitHub link like this GitHub.com/barryspacezero/TelegramVCVideoPlayer-dev",
             "required": true 
         },
         "BOT_USERNAME": {
